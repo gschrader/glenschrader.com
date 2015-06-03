@@ -1,0 +1,78 @@
+==================================================================
+https://keybase.io/gschrader
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://glenschrader.com
+  * I am gschrader (https://keybase.io/gschrader) on keybase.
+  * I have a public key with fingerprint F267 06BA 0013 B164 A0A2  3782 FB41 48B1 3D59 D81C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "f26706ba0013b164a0a23782fb4148b13d59d81c",
+            "host": "keybase.io",
+            "key_id": "FB4148B13D59D81C",
+            "uid": "d74edade0d62d6f660dbd1939f024000",
+            "username": "gschrader"
+        },
+        "merkle_root": {
+            "ctime": 1412102288,
+            "hash": "c9cbbb44f9c0424cecd46bd6af365d4b518288cb64adffbff03134034850f3ee17fde3833ffec3908d31170cc808535e953bd6f6f74042636e2bb55a0af75b1c",
+            "seqno": 67754
+        },
+        "service": {
+            "hostname": "glenschrader.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412102281,
+    "expire_in": 157680000,
+    "prev": "fba11edb081400a6ca389187fad913dda4c7e0ca66149b42a8398871fefbec39",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFdkl9sFEUcx+9KrVg9Q4wa1NM0S3yR5jKzMzs72wYS2lpRUQsSIuXhMn/bhXb3
+3L1eObDRIImYGFOiUYg2QTAQExAOHtQHmpAUEcUEk8YQ1DSIjUVeeNDkOMQ407Tx
+z9vO/j6/7/y+39+M55ZkWrO31qytrdp8KZ/95hrPbHyi/t5Oh8ey6nTsdMRQqKKy
+/YrYsHI6nG2qylmqCmHcFsVSFbambQtMu1NRSRrGkaFAwS+4zli7xW2zDqMBlZSS
+0Go52iU+IJwBABGHBDPAXORTV3MMMeUQSS+QFAojORin5f/c6sxrFkNp/vZ2Wb4L
+oh4v6KGw29RG5gvSx0oyqYAkriSaECC5hAEKNHAxAMCCqUoWLA2kYjAxdGIHHlbJ
+tiFVTOJ43rUoh5aBGLoQuC6lZiSWDpouEQjOOcY6EAC7WCghMeGSMI2IJzH3IDW4
+4Mae1JprDRBEGCBMPaCRUtDXUiGKkNZKoABQiSD0gRAUUA95KvAQt7NrHxt9gohy
+Ofc8k5X2PT4fTqpejmKng/i+h8fsMamEQtmxbWyL7oZUtGiwIOJh01dK4nIs4iFT
+HSyXSx3Wd7lasnRtVPHiglCRh5E0i/v3ZqFB/58JbHfU9lKYqGJoCc8n1GQM7D2q
+YtfNGYRKckChCZ8RwRANIPU1k4HZtWRY+AoIRgjEAccuoyig1IdaaW6j+cepa+Zk
+A0YyDQciVh5JlDP2ZjbfnMm2ZlruaLJPN9N617LF97zv2zv/gq9+PvPD3MH6h+mx
+Pyd35Z668Nrq8V9ydDTb73RNPL70sf0rb96/8tZVMZ7b0VZbfv7E1438uq2nOy+f
+7++f3F147shB2PLbgbeutJ6b+/L4oYnRvaLQn+6ZOdry7Bu1yy91eq/U03t60Y6z
+70+3X3pwrDnT+On1H+/mH+eXtHT+8fSm3smz/snpQ+tvvzi1u2/2+kf56YaqbJpY
+PVuqc3lh5vvDv24+Nbule2317RvHyNIb31U2kE+Orujb8umG2/vOPNTTuLf74Z9v
+Tu198tGvmtah9b+/+8y1OdzYUz3c1flIc3XZiovXR/b3PfD8fTV/1WR9qvjFC1eP
+f3BObm9aXt+15sqBz47kLvJ3/gY=
+=+RM9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gschrader
+
+==================================================================
+
