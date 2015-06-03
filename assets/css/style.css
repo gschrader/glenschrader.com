@@ -1,0 +1,52 @@
+.icon a {
+    padding: 0;
+    margin: 0;
+    -webkit-transition: all .4s;
+    text-decoration: none;
+}
+
+.icon {
+    text-align: center;
+    font-size: 5em;
+    line-height: 2em;
+}
+
+.icon a, a:visited {
+    color: #444;
+}
+
+.icon a:hover {
+    color: #9ECE5F;
+}
+
+a.icon-twitter:hover {
+    color: #28adeb;
+}
+
+a.icon-google-:hover {
+    color: #bd3622;
+}
+
+a.icon-linkedin:hover {
+    color: #71c5ef;
+}
+
+a.icon-github:hover {
+    color: #85d7fd;
+}
+
+a.icon-stackoverflow:hover {
+    color: #fb7a20;
+}
+
+a.icon-rdio:hover {
+    color: #218fd5;
+}
+
+body {
+    background-color: #272822;
+}
+
+.container {
+	padding-top: 20px;
+}
